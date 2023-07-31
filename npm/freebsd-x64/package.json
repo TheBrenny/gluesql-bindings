@@ -1,0 +1,18 @@
+{
+  "name": "gluesql-bindings-freebsd-x64",
+  "version": "0.0.0",
+  "os": [
+    "freebsd"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "gluesql-bindings.freebsd-x64.node",
+  "files": [
+    "gluesql-bindings.freebsd-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

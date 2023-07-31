@@ -1,0 +1,15 @@
+{
+  "name": "gluesql-bindings-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "gluesql-bindings.darwin-universal.node",
+  "files": [
+    "gluesql-bindings.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
